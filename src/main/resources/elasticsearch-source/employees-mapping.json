@@ -1,0 +1,43 @@
+{
+  "settings": {
+    "index": {
+      "number_of_shards": 5,
+      "number_of_replicas": 0
+    }
+  },
+  "mappings": {
+    "properties": {
+      "firstName": {
+        "type": "text"
+      },
+      "lastName": {
+        "type": "text"
+      },
+      "designation": {
+        "type": "keyword"
+      },
+      "salary": {
+        "type": "integer"
+      },
+      "dateOfJoining": {
+        "type": "date",
+        "format": "yyyy-MM-dd"
+      },
+      "address": {
+        "type": "keyword"
+      },
+      "gender": {
+        "type": "keyword"
+      },
+      "age": {
+        "type": "integer"
+      },
+      "maritalStatus": {
+        "type": "keyword"
+      },
+      "interests": {
+        "type": "keyword"
+      }
+    }
+  }
+}

@@ -1,0 +1,176 @@
+[
+    {
+      "firstName": "LIA",
+      "lastName": "BELICH",
+      "designation": "Manager",
+      "salary": 84000,
+      "dateOfJoining": "1997-02-13",
+      "address": "43 Broad St. Grand Blanc, MI 48439",
+      "gender": "Female",
+      "age": 40,
+      "maritalStatus": "Unmarried",
+      "interests": [
+        "Aircraft Spotting"
+      ]
+    },
+    {
+      "firstName": "JOE",
+      "lastName": "KRUEGER",
+      "designation": "Human Resource Manager",
+      "salary": 72000,
+      "dateOfJoining": "1997-02-03",
+      "address": "5 Orange Street Rockville Centre, NY 11570",
+      "gender": "Male",
+      "age": 45,
+      "maritalStatus": "Unmarried",
+      "interests": [
+        "Dumpster Diving",
+        "Locksport",
+        "Hang gliding",
+        "Eating out",
+        "Crossword Puzzles",
+        "Aircraft Spotting"
+      ]
+    },
+    {
+      "firstName": "RUDY",
+      "lastName": "TOPIA",
+      "designation": "Architect",
+      "salary": 81000,
+      "dateOfJoining": "1988-02-22",
+      "address": "66 Walt Whitman Rd. La Vergne, TN 37086",
+      "gender": "Male",
+      "age": 51,
+      "maritalStatus": "Unmarried",
+      "interests": [
+        "Model Railroading",
+        "Aircraft Spotting",
+        "Rock Balancing",
+        "Airsofting",
+        "Car Racing",
+        "Learning An Instrument",
+        "Boating"
+      ]
+    },
+    {
+      "firstName": "SHERMAN",
+      "lastName": "FLORAS",
+      "designation": "Team Lead",
+      "salary": 76000,
+      "dateOfJoining": "2001-02-12",
+      "address": "9731 Pawnee Ave. Saint Louis, MO 63109",
+      "gender": "Male",
+      "age": 35,
+      "maritalStatus": "Unmarried",
+      "interests": [
+        "Aircraft Spotting",
+        "Amateur Astronomy",
+        "Knotting",
+        "Baseball",
+        "Pipe Smoking",
+        "Casino Gambling"
+      ]
+    },
+    {
+      "firstName": "MIRA",
+      "lastName": "WORLDS",
+      "designation": "Team Lead",
+      "salary": 78000,
+      "dateOfJoining": "2014-01-28",
+      "address": "353 Liberty St. Billings, MT 59101",
+      "gender": "Female",
+      "age": 34,
+      "maritalStatus": "Married",
+      "interests": [
+        "Scrapbooking",
+        "Gyotaku",
+        "Matchstick Modeling",
+        "Button Collecting",
+        "Aircraft Spotting"
+      ]
+    },
+    {
+      "firstName": "CORNELIUS",
+      "lastName": "DEMBY",
+      "designation": "Team Lead",
+      "salary": 77000,
+      "dateOfJoining": "2004-02-03",
+      "address": "99 North 8th Dr. Rockford, MI 49341",
+      "gender": "Male",
+      "age": 33,
+      "maritalStatus": "Unmarried",
+      "interests": [
+        "Aircraft Spotting"
+      ]
+    },
+    {
+      "firstName": "TRENTON",
+      "lastName": "GUYON",
+      "designation": "Team Lead",
+      "salary": 78000,
+      "dateOfJoining": "2006-01-30",
+      "address": "8758 Arrowhead Ave. Mountain View, CA 94043",
+      "gender": "Male",
+      "age": 34,
+      "maritalStatus": "Married",
+      "interests": [
+        "Home Repair",
+        "Quilting",
+        "Needlepoint",
+        "Sand Castles",
+        "Butterfly Watching",
+        "Aircraft Spotting"
+      ]
+    },
+    {
+      "firstName": "ALAN",
+      "lastName": "KNICELEY",
+      "designation": "Team Lead",
+      "salary": 71000,
+      "dateOfJoining": "2015-01-22",
+      "address": "10 NW. Ashley Avenue Huntsville, AL 35803",
+      "gender": "Male",
+      "age": 33,
+      "maritalStatus": "Unmarried",
+      "interests": [
+        "Glowsticking",
+        "Aircraft Spotting",
+        "Juggling",
+        "Paintball",
+        "Cartooning",
+        "Collecting Hats",
+        "Aeromodeling"
+      ]
+    },
+    {
+      "firstName": "COLLIN",
+      "lastName": "SESSER",
+      "designation": "Team Lead",
+      "salary": 75000,
+      "dateOfJoining": "2007-09-14",
+      "address": "729 10th Dr. Springboro, OH 45066",
+      "gender": "Male",
+      "age": 34,
+      "maritalStatus": "Married",
+      "interests": [
+        "Aircraft Spotting",
+        "Archery",
+        "Marksmanship",
+        "Airbrushing"
+      ]
+    },
+    {
+      "firstName": "LESLEY",
+      "lastName": "CORMICAN",
+      "designation": "Team Lead",
+      "salary": 73000,
+      "dateOfJoining": "2009-12-29",
+      "address": "8 East Westport Ave. Astoria, NY 11102",
+      "gender": "Male",
+      "age": 30,
+      "maritalStatus": "Unmarried",
+      "interests": [
+        "Aircraft Spotting"
+      ]
+    }
+  ]
